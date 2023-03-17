@@ -1,3 +1,8 @@
+---
+title: "Skills"
+layout: archive
+permalink: /portfolio/
+---
 # Computing
 
 - Python
