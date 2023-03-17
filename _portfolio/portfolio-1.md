@@ -3,18 +3,18 @@ title: "Skills"
 layout: archive
 permalink: /portfolio/
 ---
-# Computing
+## Computing
 
 - Python
 - MATLAB
 - C++
 
-# Machine Learning
+## Machine Learning
 
 - PyTorch
 - TensorFlow
 
-# Organisation
+## Organisation
 
 - Leader of CMIC Hackathon 2022 Committee
 - Member of CMIC Away Day 2022 Committee
