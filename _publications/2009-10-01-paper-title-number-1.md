@@ -12,4 +12,4 @@ False positives on multiparametric MRIs (mp-MRIs) result in many unnecessary inv
 
 [Download paper here](https://www.mdpi.com/2075-4418/12/7/1631)
 
-Recommended citation: Sen, S. (2022). "Paper Title Number 1." <i>Diagnostics</i>. 12(7).
+Recommended citation: Sen, S. (2022). "Differentiating False Positive Lesions from Clinically Significant Cancer and Normal Prostate Tissue Using VERDICT MRI and Other Diffusion Models." <i>Diagnostics</i>. 12(7).
