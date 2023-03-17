@@ -7,4 +7,4 @@ venue: "UCL, Department of Computer Science"
 date: 2022-10-01
 ---
 
-Postgraduate teaching assistant. Responsibilties included teaching computational classes and marking coursework.
+Postgraduate teaching assistant. Responsibilties included planning and supervising computing lab classes and marking coursework.
