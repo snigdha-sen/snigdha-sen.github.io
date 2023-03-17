@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Differentiating False Positive Lesions from Clinically Significant Cancer and Normal Prostate Tissue Using VERDICT MRI and Other Diffusion Models"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'False positives on multiparametric MRIs (mp-MRIs) result in many unnecessary invasive biopsies in men with clinically insignificant diseases. This study investigated whether quantitative diffusion MRI could differentiate between false positives, true positives and normal tissue non-invasively.'
+date: 2022-07-05
+venue: 'Diagnostics'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sen, S. (2022). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+False positives on multiparametric MRIs (mp-MRIs) result in many unnecessary invasive biopsies in men with clinically insignificant diseases. This study investigated whether quantitative diffusion MRI could differentiate between false positives, true positives and normal tissue non-invasively.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Sen, S. (2022). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
