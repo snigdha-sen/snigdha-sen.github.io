@@ -1,4 +1,3 @@
-====
 Computing
 ====
 * Python
@@ -6,13 +5,11 @@ Computing
 * C++
 * Golang
 
-====
 Machine Learning
 ====
 * PyTorch
 * Tensorflow
 
-====
 Organisation
 ====
 * CMIC Hackathon 2022
