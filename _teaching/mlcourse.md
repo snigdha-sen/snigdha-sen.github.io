@@ -1,0 +1,10 @@
+---
+title: "Introduction to Machine Learning"
+collection: teaching
+type: "Masters Level Course"
+permalink: /teaching/iml
+venue: "UCL, Department of Computer Science"
+date: 2021
+---
+
+Postgraduate teaching assistant. Responsibilties included teaching computational lab classes.
