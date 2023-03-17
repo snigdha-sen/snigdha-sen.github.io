@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ismrm2022
 excerpt: 'Mp-MRI has moderate specificity for the diagnosis of prostate cancer, resulting in many false positive results and unnecessary biopsies for patients with other prostatic diseases. This work presents an approach using VERDICT-MRI to investigate differences in microstructural parameter estimates between normal prostate tissue, false positive lesions and clinically-significant cancer.'
 date: 2022-05-08
-venue: 'ISMRM 2022'
+venue: 'ISMRM'
 ---
 Mp-MRI has moderate specificity for the diagnosis of prostate cancer, resulting in many false positive results and unnecessary biopsies for patients with other prostatic diseases. This work presents an approach using VERDICT-MRI to investigate differences in microstructural parameter estimates between normal prostate tissue, false positive lesions and clinically-significant cancer.
 
