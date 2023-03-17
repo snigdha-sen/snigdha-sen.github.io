@@ -1,16 +1,17 @@
-Computing
-====
-* Python
-* MATLAB
-* C++
+# Computing
 
-Machine Learning
-====
-* PyTorch
-* Tensorflow
+- Python
+- MATLAB
+- C++
+- Golang
 
-Organisation
-====
-* CMIC Hackathon 2022
-* CMIC Away Day 2022
+# Machine Learning
+
+- PyTorch
+- TensorFlow
+
+# Organisation
+
+- Leader of CMIC Hackathon 2022 Committee
+- Member of CMIC Away Day 2022 Committee
 
