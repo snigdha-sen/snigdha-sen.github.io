@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://snigdha-sen.github.io/files/cv.pdf)
+Please download my CV [here](http://snigdha-sen.github.io/files/cv.pdf)
