@@ -8,6 +8,6 @@ venue: 'Diagnostics'
 ---
 False positives on multiparametric MRIs (mp-MRIs) result in many unnecessary invasive biopsies in men with clinically insignificant diseases. This study investigated whether quantitative diffusion MRI could differentiate between false positives, true positives and normal tissue non-invasively.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.mdpi.com/2075-4418/12/7/1631)
 
 Recommended citation: Sen, S. (2022). "Differentiating False Positive Lesions from Clinically Significant Cancer and Normal Prostate Tissue Using VERDICT MRI and Other Diffusion Models." <i>Diagnostics</i>. 12(7).
