@@ -1,6 +1,10 @@
 ---
 title: "Computing"
-excerpt: ""
 collection: portfolio
 ---
+
+* Python
+* MATLAB
+* C++
+* Golang
 
