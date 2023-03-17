@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters Level Course"
 permalink: /teaching/iml
 venue: "UCL, Department of Computer Science"
-date: 2021
+date: 2021-10-01
 ---
 
 Postgraduate teaching assistant. Responsibilties included teaching computational lab classes.
