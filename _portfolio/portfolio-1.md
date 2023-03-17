@@ -3,7 +3,6 @@
 - Python
 - MATLAB
 - C++
-- Golang
 
 # Machine Learning
 
