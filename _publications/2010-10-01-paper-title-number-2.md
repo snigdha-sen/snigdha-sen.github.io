@@ -1,13 +1,14 @@
 ---
-title: "VERDICT-MRI Analysis of False Positives in Prostate Mp-MRI"
+title: "ssVERDICT: Self-Supervised VERDICT-MRI for Enhanced Prostate Tumour Characterisation"
 collection: publications
-permalink: /publication/ismrm2022
-excerpt: 'Mp-MRI has moderate specificity for the diagnosis of prostate cancer, resulting in many false positive results and unnecessary biopsies for patients with other prostatic diseases. This work presents an approach using VERDICT-MRI to investigate differences in microstructural parameter estimates between normal prostate tissue, false positive lesions and clinically-significant cancer.'
-date: 2022-05-08
-venue: 'International Society for Magnetic Resonance in Medicine'
+permalink: /publication/ssVERDICT
+excerpt: 'MRI is increasingly being used in the diagnosis of prostate cancer (PCa), with diffusion MRI (dMRI) playing an integral role. When combined with computational models, dMRI can estimate microstructural information such as cell size. Conventionally, such models are fit with a nonlinear least squares (NLLS) curve fitting approach, associated with a high computational cost. Supervised deep neural networks (DNNs) are an efficient alternative, however their performance is significantly affected by the underlying distribution of the synthetic training data. Self-supervised learning is an attractive alternative, where instead of using a separate training dataset, the network learns the features of the input data itself. This approach has only been applied to fitting of trivial dMRI models thus far. Here, we introduce a self- supervised DNN to estimate the parameters of the VERDICT (Vascular, Extracellular and Restricted DIffusion for Cytometry in Tumours) model for prostate, demonstrating, for the first time, fitting of a complex three-compartment biophysical model with machine learning without the requirement of explicit training labels.'
+date: 2023-09-27
+venue: 'arXiv'
 ---
-Mp-MRI has moderate specificity for the diagnosis of prostate cancer, resulting in many false positive results and unnecessary biopsies for patients with other prostatic diseases. This work presents an approach using VERDICT-MRI to investigate differences in microstructural parameter estimates between normal prostate tissue, false positive lesions and clinically-significant cancer.
 
-[Download abstract here](http://snigdha-sen.github.io/files/paper2.pdf)
+MRI is increasingly being used in the diagnosis of prostate cancer (PCa), with diffusion MRI (dMRI) playing an integral role. When combined with computational models, dMRI can estimate microstructural information such as cell size. Conventionally, such models are fit with a nonlinear least squares (NLLS) curve fitting approach, associated with a high computational cost. Supervised deep neural networks (DNNs) are an efficient alternative, however their performance is significantly affected by the underlying distribution of the synthetic training data. Self-supervised learning is an attractive alternative, where instead of using a separate training dataset, the network learns the features of the input data itself. This approach has only been applied to fitting of trivial dMRI models thus far. Here, we introduce a self- supervised DNN to estimate the parameters of the VERDICT (Vascular, Extracellular and Restricted DIffusion for Cytometry in Tumours) model for prostate, demonstrating, for the first time, fitting of a complex three-compartment biophysical model with machine learning without the requirement of explicit training labels.
 
-Recommended citation: Sen, S. (2022). "VERDICT-MRI Analysis of False Positives in Prostate Mp-MRI." <i>ISMRM 2022</i>.
+[Download preprint here]([http://snigdha-sen.github.io/files/paper2.pdf](https://arxiv.org/abs/2309.06268)
+
+Recommended citation: Sen, S. (2023). "ssVERDICT: Self-Supervised VERDICT-MRI for Enhanced Prostate Tumour Characterisation." arXiv:2309.06268.
