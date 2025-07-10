@@ -3,19 +3,22 @@ title: "Skills"
 layout: archive
 permalink: /portfolio/
 ---
-## Computing
+## Languages
 
 - Python
 - MATLAB
-- C++
 
-## Machine Learning
+## Tools
 
 - PyTorch
 - TensorFlow
+- JAX
+- Git
+- ClearML / MLFlow
+- Docker
 
-## Organisation
+## Invited Talks
 
-- Leader of CMIC Hackathon 2022 Committee
-- Member of CMIC Away Day 2022 Committee
+- Cardiff University June 2024
+- UCL Cancer Symposium ECR Session 2023
 
