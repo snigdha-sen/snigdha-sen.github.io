@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Snigdha Sen"
 title_separator          : "-"
 name                     : &name "Snigdha Sen"
-description              : &description "Postdoc"
+description              : &description "Postdoctoral Research Associare"
 url                      : https://snigdha-sen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "snigdha-sen/snigdha-sen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Snigdha Sen"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at UCL"
+  bio              : "Researcher at UCL"
   location         : "London, UK"
   employer         :
   pubmed           : 
